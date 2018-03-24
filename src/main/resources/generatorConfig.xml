@@ -11,8 +11,8 @@
         <!--需要配置数据库连接-->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
                         connectionURL="jdbc:mysql://rm-uf6uz3043ca8dbnw6o.mysql.rds.aliyuncs.com:3306/pu_store_new?characterEncoding=UTF-8&amp;zeroDateTimeBehavior=convertToNull&amp;autoReconnect=true"
-                        userId="popupunion"
-                        password="Pop123456789"
+                        userId="xxxx"
+                        password="xxxxx"
         >
     </jdbcConnection>
 
